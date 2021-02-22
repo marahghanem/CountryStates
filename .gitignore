@@ -126,3 +126,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+tutorial/
+my-app/
+env/
+**/new-frontend/node_modules
